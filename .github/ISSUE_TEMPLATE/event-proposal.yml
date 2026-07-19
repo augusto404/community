@@ -1,0 +1,46 @@
+name: Proposta de evento
+description: Proponha uma atividade, encontro, workshop ou grupo de estudo.
+title: "event: "
+labels:
+  - event
+  - community
+body:
+  - type: input
+    id: theme
+    attributes:
+      label: Tema
+      placeholder: Ex. Introdução a Git e GitHub
+    validations:
+      required: true
+  - type: dropdown
+    id: format
+    attributes:
+      label: Formato
+      options:
+        - Online
+        - Presencial
+        - Híbrido
+        - Ainda não definido
+    validations:
+      required: true
+  - type: textarea
+    id: audience
+    attributes:
+      label: Público recomendado
+      description: Para quem a atividade é indicada?
+    validations:
+      required: true
+  - type: textarea
+    id: objective
+    attributes:
+      label: Objetivo
+      description: O que participantes devem aprender ou praticar?
+    validations:
+      required: true
+  - type: textarea
+    id: safety
+    attributes:
+      label: Cuidados éticos e legais
+      description: Informe limites, ambiente autorizado e riscos.
+    validations:
+      required: true

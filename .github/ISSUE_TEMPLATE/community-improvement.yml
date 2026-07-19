@@ -1,0 +1,28 @@
+name: Melhoria da comunidade
+description: Sugira melhorias em organização, processos, canais ou participação.
+title: "community: "
+labels:
+  - community
+  - help wanted
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problema ou oportunidade
+      description: O que pode ser melhorado?
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposta
+      description: Como você sugere resolver ou experimentar essa melhoria?
+    validations:
+      required: true
+  - type: textarea
+    id: impact
+    attributes:
+      label: Impacto esperado
+      description: Como isso ajuda membros, iniciantes ou a organização da K0Sec?
+    validations:
+      required: false

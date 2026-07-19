@@ -1,0 +1,28 @@
+name: Sugestão de conteúdo
+description: Sugira melhoria em documentos, guias ou informações públicas da comunidade.
+title: "docs: "
+labels:
+  - documentation
+  - content
+body:
+  - type: textarea
+    id: context
+    attributes:
+      label: Contexto
+      description: Qual documento, seção ou informação pode melhorar?
+    validations:
+      required: true
+  - type: textarea
+    id: suggestion
+    attributes:
+      label: Sugestão
+      description: Descreva a melhoria proposta.
+    validations:
+      required: true
+  - type: textarea
+    id: ethical-care
+    attributes:
+      label: Cuidados
+      description: Existe algum cuidado de privacidade, segurança ou ética?
+    validations:
+      required: false

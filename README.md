@@ -23,7 +23,7 @@ Use este repositório para:
 
 ## Ecossistema K0Sec
 
-- Site oficial: [k0sec-br/k0sec](https://github.com/k0sec-br/k0sec)
+- Site oficial: [k0sec.pages.dev](https://k0sec.pages.dev)
 - Comunidade e governança: [k0sec-br/community](https://github.com/k0sec-br/community)
 - Trilhas de aprendizado: [k0sec-br/learning-paths](https://github.com/k0sec-br/learning-paths)
 - Laboratórios educacionais: [k0sec-br/labs](https://github.com/k0sec-br/labs)

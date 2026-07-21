@@ -19,7 +19,6 @@ A comunidade é indicada tanto para quem está começando quanto para quem quer 
 ## Onde encontrar cada parte do ecossistema
 
 - [`k0sec.pages.dev`](https://k0sec.pages.dev): site oficial da K0Sec.
-- [`k0sec-br/k0sec`](https://github.com/k0sec-br/k0sec): repositório do site oficial.
 - [`k0sec-br/community`](https://github.com/k0sec-br/community): comunidade, participação e governança.
 - [`k0sec-br/learning-paths`](https://github.com/k0sec-br/learning-paths): trilhas de aprendizado.
 - [`k0sec-br/labs`](https://github.com/k0sec-br/labs): atividades práticas e laboratórios educacionais.

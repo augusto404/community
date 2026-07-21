@@ -6,6 +6,8 @@ A K0Sec é uma comunidade independente do interior de São Paulo voltada ao apre
 
 **Slogan:** Learn. Explore. Defend.
 
+> Novo na comunidade? Comece pelo [guia de onboarding](ONBOARDING.md).
+
 ## Papel deste Repositório
 
 Este repositório não é o site oficial e não contém trilhas técnicas ou laboratórios. Ele existe para documentar como a comunidade se organiza e como membros podem participar de forma segura, clara e colaborativa.

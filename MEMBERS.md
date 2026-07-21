@@ -14,6 +14,8 @@ Este documento descreve papéis da comunidade sem nomear pessoas. A lista nomina
 
 ## Como Evoluir na Comunidade
 
+Quem acabou de chegar pode seguir o [guia de onboarding](ONBOARDING.md) para conhecer os primeiros passos.
+
 Participação pode acontecer de várias formas:
 
 - Fazer perguntas com contexto.
